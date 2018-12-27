@@ -2,7 +2,7 @@
 ## ImageNet Classification with Deep Convolutional Neural Networks
 
 Authors : Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-
+[Blog](https://medium.com/@shangethrajaa/alexnet-a-deep-learning-breakthrough-aaddb9ac0078)
 ![](https://cdn-images-1.medium.com/max/1536/1*qyc21qM0oxWEuRaj-XJKcw.png)
 
 <p>This was one of the most influential publication in the field of Computer Vision.This model won the ILSVRC 2012 Competition. </p>
